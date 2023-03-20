@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1679344665 source:/home/alunos/Suite de Jogos /Forca.cpp
+	"Forca.h"
+
+1679344665 /home/alunos/Suite de Jogos /Forca.h
+	<iostream>
+
+1679344665 source:/home/alunos/Suite de Jogos /Velha.cpp
+	"Velha.h"
+
+1679344665 /home/alunos/Suite de Jogos /Velha.h
+	<iostream>
+
+1679344879 source:/home/alunos/Suite de Jogos /main.cpp
+	"Forca.h"
+	"Velha.h"
+
